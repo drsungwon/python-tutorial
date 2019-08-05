@@ -13,7 +13,8 @@ Step.2부터 이들 프로그램을 활용한 Python 언어의 실습을 진행�
 구매 및 Creative Commons Attribution-NonCommercial 3.0 Unported License로 무료 다운로드가 가능합니다.<br><br>
 ## 질의응답
 자료에 대한 질의응답은 SWCON104 웹파이선프로그래밍 수업 게시판에서 가능합니다.<br>
-게시판(http://mobilelab.khu.ac.kr/webpythonbbs/)에는 이미 수업을 진행하면서 발생한 질의응답의 확인이 가능하며,<br>
+http://mobilelab.khu.ac.kr/webpythonbbs/
+게시판에는 이미 수업을 진행하면서 발생한 질의응답의 확인이 가능하며,<br>
 수업을 수강하지 않는 경우도 질의응답을 할 수 있으니 참조바랍니다.<br><br>
 ## 라이센스
 Creative Commons Attribution-NonCommercial 3.0 Unported License<br>
