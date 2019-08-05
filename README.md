@@ -1,1 +1,16 @@
-# WebPythonLecture-test
+# Python 스스로 공부하기
+Jupyter Notebook 프로그램을 사용하여, 스스로 Python 언어의 문법을 공부할 수 있는 자료들입니다.<br><br>
+## 자료소개
+경희대학교 소프트웨어융합학과의 SWCON104 웹파이선프로그래밍 수업의 Python 문법 부분에 대한 실습 자료로 만들어 졌습니다.<br>
+별도의 교재없이 Step.1을 시작으로 진도를 나가면 됩니다.<br>
+실습을 위한 프로그램인 Jupyter Notebook 및 Anaconda에 대한 소개와 설치 방법은 Step.1에 소개하고 있으며,<br>
+Step.2부터 이들 프로그램을 활용한 Python 언어의 실습을 진행합니다.<br>
+본 자료는 학생들과 학습자에 대한 자료로서, 실습 문제에 대한 해답은 없습니다.<br>
+해답을 원하는 분은 본인의 소속과 이를 증명할 수 있는 홈페이지 등의 정보, 그리고 활용 용도를 알려주시면 제공 가능합니다.<br><br>
+## 질의응답
+자료에 대한 질의응답은 SWCON104 웹파이선프로그래밍 수업 게시판에서 가능합니다.<br>
+게시판(http://mobilelab.khu.ac.kr/webpythonbbs/)에는 이미 수업을 진행하면서 발생한 질의응답의 확인이 가능하며,<br>
+수업을 수강하지 않는 경우도 질의응답을 할 수 있으니 참조바랍니다.<br><br>
+## 라이센스
+APACHE LICENSE 2.0<br>
+Copyright 2019, Sungwon Lee
